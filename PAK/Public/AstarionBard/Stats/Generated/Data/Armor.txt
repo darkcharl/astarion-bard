@@ -1,0 +1,4 @@
+new entry "UNI_Astarion_StarterArmor"
+type "Armor"
+using "ARM_Leather_Body"
+data "RootTemplate" "da345d08-2186-4e4a-857c-3fd6a104cec6"
