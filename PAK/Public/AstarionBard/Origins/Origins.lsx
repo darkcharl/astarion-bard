@@ -16,7 +16,7 @@
                     <attribute id="Name" type="FixedString" value="Astarion"/>
                     <attribute id="Passives" type="LSString" value="DeathSavingThrows"/>
                     <attribute id="RaceUUID" type="guid" value="f4792c5f-8740-4f22-b77d-5df1e5753c46"/>
-                    <attribute id="SubClassUUID" type="guid" value="d21368ac-c776-465c-9dcf-6123dd52734f"/>
+                    <attribute id="SubClassUUID" type="guid" value="bc93cdeb-8063-4d04-940f-c4d95c939535"/>
                     <attribute id="UUID" type="guid" value="3780c689-d903-41c2-bf64-1e6ec6a8e1e5"/>
                     <attribute id="Unique" type="bool" value="true"/>
                     <attribute id="VoiceTableUUID" type="guid" value="9270997a-8af5-4fb1-9cf3-26c515878d4b"/>
